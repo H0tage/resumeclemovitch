@@ -27,6 +27,24 @@ document.querySelectorAll('.video-link').forEach((link) => {
 
 const summary = document.querySelector('#summary-content');
 if (summary) {
+  const directStyle = (text) => text
+    .replace(/Viktorovitch défend une thèse générale :/g, 'La thèse générale est la suivante :')
+    .replace(/Viktorovitch examine deux questions\./g, "Deux questions structurent l'analyse.")
+    .replace(/Viktorovitch (?:explique|estime|considère|souligne|rappelle|insiste|conclut) que /g, '')
+    .replace(/Il (?:explique|estime|considère|souligne|rappelle|insiste|conclut) que /g, '')
+    .replace(/Il appelle à la prudence\./g, 'La prudence s’impose.')
+    .replace(/Il distingue cependant plusieurs situations :/g, 'Plusieurs situations doivent cependant être distinguées :')
+    .replace(/Sa conclusion est qu'il n'existe pas de stratégie universelle :/g, "Il n'existe pas de stratégie universelle :")
+    .replace(/Il évoque /g, '')
+    .replace(/Il présente /g, '')
+    .replace(/Il détaille /g, 'Le texte détaille ')
+    .replace(/Il s'appuie notamment sur les critiques du Conseil national des barreaux,/g, 'Les critiques du Conseil national des barreaux')
+    .replace(/Viktorovitch revient ensuite sur /g, 'Retour sur ')
+    .replace(/Viktorovitch examine /g, 'Examen de ')
+    .replace(/Viktorovitch critique /g, 'La critique porte sur ')
+    .replace(/Viktorovitch juge /g, 'Le constat est le suivant : ')
+    .replace(/Viktorovitch souhaite examiner /g, 'Examen de ')
+    .replace(/Viktorovitch défend alors /g, 'La position défendue est la suivante : ');
   const subheadings = new Set([
     'Un projet de coupure des réseaux sociaux', 'Des créatrices de contenu interpellées',
     'La remise en cause du principe de responsabilité individuelle', 'Des restrictions supplémentaires aux libertés individuelles',
@@ -40,7 +58,7 @@ if (summary) {
     .then((response) => response.ok ? response.text() : Promise.reject())
     .then((text) => {
       summary.replaceChildren();
-      text.replace(/\r/g, '').split(/\n{2,}/).forEach((block) => {
+      directStyle(text).replace(/\r/g, '').split(/\n{2,}/).forEach((block) => {
         const value = block.trim();
         if (!value) return;
         const lines = value.split('\n');
