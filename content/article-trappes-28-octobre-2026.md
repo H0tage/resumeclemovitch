@@ -30,7 +30,7 @@ Le projet relatif à la réparation des dégradations dans l'espace public est p
 
 Le principe de responsabilité personnelle est simple : chacun répond de ce qu'il a fait. Si ce principe est élargi à la simple présence dans une manifestation, des personnes qui n'ont commis aucune dégradation peuvent être exposées à un risque financier. Participer à un rassemblement devient alors plus coûteux et plus risqué, y compris pour les manifestants pacifiques.
 
-Le point critique est que la mesure ne vise plus seulement à réparer un dommage. Elle transforme la manifestation en activité financièrement dangereuse pour tous ceux qui y prennent part. Le risque n'est pas limité à une sanction après une faute établie : il devient une raison de ne pas venir, de ne pas rester, ou de renoncer à exercer une opposition collective.
+Le point critique est que la mesure ne vise plus seulement à réparer un dommage. Elle fait de la manifestation une activité financièrement risquée pour tous ceux qui y prennent part. Le risque n'est plus limité à une sanction après une faute établie : il peut devenir une raison de ne pas venir, de ne pas rester, ou de renoncer à manifester.
 
 Les amendements discutés au Sénat ajoutent de nombreux instruments. Ils ne concernent pas seulement les dégradations : ils touchent à la participation aux manifestations, à la surveillance, aux sanctions pénales, aux droits civiques, au logement et aux ressources des personnes concernées.
 
@@ -48,7 +48,7 @@ Le texte prévoit une extension de la vidéosurveillance algorithmique, dans la 
 
 Il assouplit également les conditions d'utilisation des drones. Leur déploiement au-dessus d'une manifestation permettrait d'observer les déplacements, les rassemblements et les mouvements de foule avec moins de contraintes administratives.
 
-Ces outils ne servent pas seulement à constater un désordre déjà présent. Ils permettent d'identifier, de suivre et de classer des comportements avant toute infraction. Leur extension installe une surveillance continue de la mobilisation, dans laquelle les personnes présentes peuvent être regardées d'abord comme des profils de risque.
+Ces outils ne servent pas seulement à constater un désordre déjà présent. Ils permettent d'identifier, de suivre et de classer des comportements avant toute infraction. Leur extension instaure une surveillance continue des manifestations, où les personnes présentes peuvent être regardées d'abord comme des risques potentiels.
 
 ### Créer ou alourdir des sanctions
 
@@ -56,7 +56,7 @@ Le simple fait de participer à une manifestation interdite deviendrait une infr
 
 La peine prévue pour la participation à un groupement formé en vue de commettre des violences ou des dégradations passerait d'un à trois ans d'emprisonnement. Cette qualification peut concerner une personne présente dans un groupe soupçonné de préparer des violences, même sans violence ou dégradation commise personnellement.
 
-Là encore, la logique se déplace : l'infraction ne porte plus seulement sur un acte accompli, mais sur l'appartenance à un groupe et l'intention qui lui est prêtée. Combinée à l'interdiction administrative de manifester, elle élargit fortement la possibilité de poursuivre ou d'écarter des participants avant que des violences ne soient établies.
+Là encore, la logique change : l'infraction ne porte plus seulement sur un acte accompli, mais sur l'appartenance à un groupe et l'intention qui lui est prêtée. Combinée à l'interdiction administrative de manifester, elle élargit fortement la possibilité de poursuivre ou d'écarter des participants avant que des violences ne soient établies.
 
 Le texte ouvre aussi la possibilité de priver temporairement une personne de certains droits civiques, notamment du droit de vote ou de l'éligibilité, pour certaines infractions commises pendant une manifestation.
 
@@ -66,7 +66,7 @@ Les conséquences prévues ne sont pas uniquement pénales. Dans certaines situa
 
 L'ensemble de ces dispositions élargit donc les conséquences possibles d'une mobilisation : elles peuvent toucher la liberté de circuler et de manifester, les comptes en ligne, les droits civiques, le logement et les ressources du foyer.
 
-La répression ne s'arrête plus à l'espace de la manifestation ni à une peine de prison ou d'amende. Elle peut atteindre les conditions matérielles de la vie quotidienne. C'est cette accumulation qui fait du texte un instrument de dissuasion politique : manifester expose potentiellement au contrôle administratif, à la surveillance, à la sanction judiciaire, à la perte de droits et à une fragilisation économique.
+La répression ne s'arrête plus à l'espace de la manifestation ni à une peine de prison ou d'amende. Elle peut atteindre la vie quotidienne. C'est cette accumulation qui fait du texte un outil de dissuasion politique : manifester expose potentiellement au contrôle administratif, à la surveillance, à la sanction judiciaire, à la perte de droits et à des difficultés matérielles.
 
 ## Administration, juge et temporalité de la restriction
 
@@ -84,7 +84,7 @@ Le risque est donc d'étendre à des paroles militantes des mécanismes initiale
 
 *[01:55 – 02:17](https://www.youtube.com/watch?v=tt5h663_qDE&t=6900s)*
 
-Les mesures discutées ne sont pas présentées comme une rupture isolée. Elles prolongent une évolution plus ancienne du maintien de l'ordre, marquée par des critiques répétées sur l'usage de la force et sur la réduction des libertés publiques. La crise sociale devient un problème à gérer par deux voies complémentaires : concéder assez pour éviter l'embrasement, mais renforcer en même temps les moyens de contenir ce qui pourrait élargir la mobilisation.
+Les mesures discutées ne sont pas présentées comme un changement isolé. Elles prolongent une évolution plus ancienne du maintien de l'ordre, régulièrement critiquée pour l'usage de la force et la réduction des libertés publiques. La crise sociale devient un problème à gérer par deux voies : concéder assez pour éviter l'embrasement, mais renforcer en même temps les moyens de contenir ce qui pourrait élargir la mobilisation.
 
 Cette logique ne suppose pas nécessairement une prise de pouvoir ouverte contre les institutions. Elle produit un résultat plus progressif : les libertés restent formellement reconnues, mais leur exercice devient plus difficile, plus risqué et plus coûteux. Une manifestation reste théoriquement possible ; elle peut cependant être interdite, surveillée, dispersée, puis suivie de conséquences financières ou administratives.
 
@@ -116,7 +116,7 @@ Le cas des déclarations sur Trappes est révélateur. Présenter la ville comme
 
 L'interview de Sarah Knafo sur Franceinfo donne un exemple de cette dynamique. Les questions relatives à Reconquête, à Éric Zemmour et au traitement de l'attentat sont redirigées vers la partialité supposée des journalistes, le racisme antiblanc et d'autres affaires criminelles. Le débat contradictoire devient lui-même une ressource de communication : la confrontation peut être présentée comme la preuve d'une hostilité du système médiatique.
 
-Cette situation pose une question plus large aux rédactions. Une interview contradictoire ne neutralise pas automatiquement les positions défendues par une personnalité politique. Lorsqu'un responsable transforme toute contradiction en preuve de persécution, l'invitation elle-même peut devenir une ressource. Le problème n'est donc pas seulement la qualité des questions posées, mais la place accordée à certaines figures dans l'espace médiatique.
+Cette situation pose une question plus large aux rédactions. Une interview contradictoire ne suffit pas forcément à neutraliser les positions défendues par une personnalité politique. Lorsqu'un responsable transforme toute contradiction en preuve de persécution, l'invitation elle-même peut devenir une ressource. Le problème n'est donc pas seulement la qualité des questions posées, mais la place accordée à certaines figures dans l'espace médiatique.
 
 ## Conclusion
 
