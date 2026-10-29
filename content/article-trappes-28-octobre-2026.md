@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Cette note examine trois mécanismes liés : la circulation des discours politiques sur les plateformes numériques, l'extension des instruments administratifs de maintien de l'ordre et la production de représentations racialisées de certains territoires et groupes sociaux. Ces mécanismes apparaissent dans les débats sur la suspension des réseaux sociaux, le projet de loi dit « Casseur-payeur » et les réactions à l'attentat de Trappes.
+Cette note est générée à partir du stream de Clément Viktorovitch diffusé le 28 octobre 2026, intitulé « Trappes : Lecornu redouble d'indignité ». Elle en propose un récapitulatif organisé sous la forme d'un article.
+
+Le stream examine trois mécanismes liés : la circulation des discours politiques sur les plateformes numériques, l'extension des instruments administratifs de maintien de l'ordre et la production de représentations racialisées de certains territoires et groupes sociaux. Ces mécanismes apparaissent dans les débats sur la suspension des réseaux sociaux, le projet de loi dit « Casseur-payeur » et les réactions à l'attentat de Trappes.
 
 L'enjeu commun est l'organisation de l'espace public. Les plateformes déterminent la visibilité des discours ; les dispositifs administratifs encadrent les conditions de la mobilisation ; les catégories politiques et médiatiques définissent les populations auxquelles s'appliquent la suspicion, la surveillance et la répression.
 
