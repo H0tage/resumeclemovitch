@@ -34,9 +34,20 @@ if (summary) {
       text.replace(/\r/g, '').split(/\n{2,}/).forEach((block) => {
         const value = block.trim();
         if (!value) return;
-        const element = /^(\d+\. |SYNTHÈSE GÉNÉRALE|CONCLUSION|Un détour important)/.test(value) ? document.createElement('h2') : document.createElement('p');
+        const timedHeading = value.match(/^(.+?)\n(Environ .+)$/s);
+        if (timedHeading && /^(\d+\. |Un détour important)/.test(timedHeading[1])) {
+          const heading = document.createElement('h2');
+          heading.textContent = timedHeading[1];
+          const timestamp = document.createElement('p');
+          timestamp.className = 'timestamp';
+          timestamp.textContent = timedHeading[2];
+          summary.append(heading, timestamp);
+          return;
+        }
+        const element = /^(SYNTHÈSE GÉNÉRALE|CONCLUSION)/.test(value) ? document.createElement('h2') : document.createElement('p');
         element.textContent = value;
         if (element.tagName === 'P') element.classList.add('verbatim-paragraph');
+        if (/^SYNTHÈSE COMPLÈTE/.test(value)) element.classList.add('document-kicker');
         summary.append(element);
       });
     })

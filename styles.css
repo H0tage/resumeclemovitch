@@ -7,6 +7,7 @@ body { margin:0; background:var(--paper); color:var(--ink); font-family:Manrope,
 .sidebar { position:sticky; top:0; height:100vh; display:flex; flex-direction:column; padding:28px 23px 22px; background:var(--sidebar); border-right:1px solid var(--line); }
 .sidebar-top { display:flex; justify-content:space-between; align-items:center; margin-bottom:68px; }
 .brand { display:flex; align-items:center; gap:10px; color:var(--ink); font-weight:700; letter-spacing:-.03em; text-decoration:none; }
+.brand-title { max-width:190px; font-size:12px; line-height:1.18; }
 .brand-mark { display:grid; width:30px; height:30px; place-items:center; border:1px solid var(--ink); border-radius:50%; font:500 11px/1 "DM Mono", monospace; letter-spacing:-.1em; }
 .theme-toggle { display:flex; align-items:center; gap:6px; padding:4px; background:transparent; color:var(--muted); border:1px solid var(--line); border-radius:20px; cursor:pointer; font-size:15px; }
 .theme-toggle span { display:grid; width:24px; height:24px; place-items:center; border-radius:50%; }
@@ -28,7 +29,7 @@ body { margin:0; background:var(--paper); color:var(--ink); font-family:Manrope,
 .article-header { padding-bottom:42px; border-bottom:1px solid var(--line); }
 h1, h2 { font-family:Fraunces, Georgia, serif; font-weight:500; letter-spacing:-.045em; }
 h1 { max-width:620px; margin:0; font-size:clamp(44px, 6vw, 75px); line-height:.98; }
-.lede { max-width:570px; margin:30px 0 22px; font-size:18px; line-height:1.6; letter-spacing:-.018em; }
+.lede { max-width:570px; margin:26px 0 18px; color:var(--muted); font-size:14px; line-height:1.6; letter-spacing:-.01em; }
 .meta { display:flex; flex-wrap:wrap; gap:8px; color:var(--muted); font:400 11px/1.5 "DM Mono", monospace; }
 .meta a, .article-footer a { color:inherit; text-decoration-color:var(--accent); text-underline-offset:3px; }
 .callout { margin:44px 0 52px; padding:24px 25px 22px; background:var(--highlight); border-left:3px solid var(--accent); }
@@ -43,6 +44,7 @@ section p { margin:0 0 18px; }
 .source-document h2 { margin:52px 0 17px; }
 .source-document h2:first-child { margin-top:0; }
 .verbatim-paragraph { white-space:pre-line; }
+.document-kicker { padding:14px 17px; background:var(--highlight); border-left:3px solid var(--accent); color:var(--ink); font:500 11px/1.55 "DM Mono", monospace; letter-spacing:.02em; }
 .takeaways { margin:0; padding:0; list-style:none; counter-reset:ideas; }
 .takeaways li { position:relative; padding:0 0 20px 42px; counter-increment:ideas; }
 .takeaways li::before { position:absolute; left:0; top:4px; content:"0" counter(ideas); color:var(--accent); font:500 11px/1 "DM Mono", monospace; }
