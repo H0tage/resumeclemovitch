@@ -10,7 +10,7 @@ Ces trois questions concernent l'organisation de l'espace public. Les plateforme
 
 ## Plateformes numériques : visibilité, interaction et contrôle
 
-*00:10 – 00:52*
+*[00:10 – 00:52](https://www.youtube.com/watch?v=tt5h663_qDE&t=600s)*
 
 Les plateformes numériques ne distribuent pas mécaniquement l'information. Elles hiérarchisent les contenus selon des mécanismes d'engagement : partage, commentaire, réaction et durée d'exposition. Dans ce cadre, les interactions hostiles peuvent accroître la visibilité des comptes qu'elles visent. La dénonciation publique d'un contenu, lorsqu'elle implique sa circulation, peut ainsi contribuer à son audience.
 
@@ -20,7 +20,7 @@ Le contrôle des plateformes par les autorités publiques pose une autre questio
 
 ## Le projet « Casseur-payeur » et la responsabilité individuelle
 
-*00:52 – 01:55*
+*[00:52 – 01:55](https://www.youtube.com/watch?v=tt5h663_qDE&t=3120s)*
 
 Le projet relatif à la réparation des dégradations dans l'espace public est présenté comme un dispositif de responsabilisation des auteurs de violences. Son application soulève cependant une question de responsabilité individuelle : une personne participant à une manifestation peut-elle être tenue de réparer des dommages commis par d'autres personnes ?
 
@@ -30,7 +30,7 @@ Les amendements discutés au Sénat ajoutent d'autres instruments : interdiction
 
 ## Administration, juge et temporalité de la restriction
 
-*00:52 – 01:55*
+*[00:52 – 01:55](https://www.youtube.com/watch?v=tt5h663_qDE&t=3120s)*
 
 L'interdiction administrative de manifester illustre ce déplacement. Elle peut être prononcée par le préfet en raison de violences antérieures imputées à une personne et d'un risque de récidive. Le recours juridictionnel reste possible, mais intervient après la décision administrative.
 
@@ -40,7 +40,7 @@ Le même schéma apparaît dans la régulation des contenus en ligne. Une autori
 
 ## Discours racistes, catégorisation politique et violence
 
-*02:47 – 04:00*
+*[02:47 – 04:00](https://www.youtube.com/watch?v=tt5h663_qDE&t=10020s)*
 
 L'attentat de Trappes a replacé au centre du débat la relation entre les discours politiques et les violences racistes. L'attaque du 23 octobre a causé la mort d'un homme noir de 26 ans et blessé cinq personnes, dont une enfant de 12 ans. Elle a été décrite comme un attentat terroriste à motivation raciste.
 
@@ -50,7 +50,7 @@ Ces discours ont des effets politiques. Ils rendent plus acceptable l'idée qu'u
 
 ## Réponses institutionnelles et traitement médiatique
 
-*02:47 – 04:33*
+*[02:47 – 04:33](https://www.youtube.com/watch?v=tt5h663_qDE&t=10020s)*
 
 La réponse de Sébastien Lecornu à l'Assemblée nationale a reconnu le caractère raciste et terroriste de l'attaque, tout en élargissant le propos à l'ensemble des violences politiques et en établissant un parallèle avec la mort de Quentin Deranque. Ce déplacement modifie le cadre de l'hommage : l'événement n'est plus seulement traité comme une violence raciste ciblée, mais comme un élément d'une conflictualité politique générale.
 
