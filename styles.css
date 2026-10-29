@@ -6,8 +6,9 @@ body { margin:0; background:var(--paper); color:var(--ink); font-family:Manrope,
 .app-shell { min-height:100vh; display:grid; grid-template-columns:330px minmax(0, 1fr); }
 .sidebar { position:sticky; top:0; height:100vh; display:flex; flex-direction:column; padding:28px 23px 22px; background:var(--sidebar); border-right:1px solid var(--line); }
 .sidebar-top { display:flex; justify-content:space-between; align-items:center; margin-bottom:68px; }
-.brand { display:flex; align-items:center; gap:10px; color:var(--ink); font-weight:700; letter-spacing:-.03em; text-decoration:none; }
-.brand-title { max-width:190px; font-size:12px; line-height:1.18; }
+.brand { display:block; color:var(--ink); text-decoration:none; }
+.brand-title { display:block; max-width:210px; font-family:Fraunces, Georgia, serif; font-size:18px; font-weight:500; line-height:1.05; letter-spacing:-.045em; }
+.brand-title em { color:var(--accent); font-style:normal; }
 .brand-mark { display:grid; width:30px; height:30px; place-items:center; border:1px solid var(--ink); border-radius:50%; font:500 11px/1 "DM Mono", monospace; letter-spacing:-.1em; }
 .theme-toggle { display:flex; align-items:center; gap:6px; padding:4px; background:transparent; color:var(--muted); border:1px solid var(--line); border-radius:20px; cursor:pointer; font-size:15px; }
 .theme-toggle span { display:grid; width:24px; height:24px; place-items:center; border-radius:50%; }
