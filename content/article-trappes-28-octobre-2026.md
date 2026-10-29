@@ -26,7 +26,33 @@ Le projet relatif à la réparation des dégradations dans l'espace public est p
 
 Le principe de responsabilité personnelle est simple : chacun répond de ce qu'il a fait. Si ce principe est élargi à la simple présence dans une manifestation, des personnes qui n'ont commis aucune dégradation peuvent être exposées à un risque financier. Participer à un rassemblement devient alors plus coûteux et plus risqué, y compris pour les manifestants pacifiques.
 
-Les amendements discutés au Sénat ajoutent d'autres instruments : interdictions administratives de manifester, interdictions de paraître, vidéosurveillance algorithmique, recours aux drones, aggravation de certaines sanctions et conséquences possibles sur des droits civiques, des baux sociaux ou des ressources saisissables. Ces mesures concernent des registres différents mais procèdent d'une même logique : anticiper le désordre par des restrictions prises avant l'intervention du juge.
+Les amendements discutés au Sénat ajoutent de nombreux instruments. Ils ne concernent pas seulement les dégradations : ils touchent à la participation aux manifestations, à la surveillance, aux sanctions pénales, aux droits civiques, au logement et aux ressources des personnes concernées.
+
+### Interdire avant qu'une infraction soit établie
+
+Le préfet pourrait interdire individuellement à une personne de manifester, sans décision préalable d'un juge ni condamnation pénale. La décision reposerait sur des violences imputées à cette personne au cours des trois années précédentes et sur un risque de récidive. Un recours devant le tribunal administratif resterait possible, mais uniquement après la décision.
+
+Le non-respect de cette interdiction pourrait être sanctionné de six mois de prison et de 3 750 euros d'amende. Le préfet pourrait aussi interdire à une personne de se rendre dans certains lieux ouverts au public pendant vingt-quatre heures, éventuellement avec une obligation de pointage. Ces mesures permettent donc d'écarter une personne d'une manifestation ou d'un secteur avant qu'elle n'ait commis d'infraction ce jour-là.
+
+### Étendre les moyens de surveillance
+
+Le texte prévoit une extension de la vidéosurveillance algorithmique, dans la continuité des dispositifs expérimentés pendant les Jeux olympiques de 2024. Des logiciels pourraient analyser automatiquement les images de caméras afin de repérer des comportements ou des situations considérés comme suspects et d'alerter les forces de l'ordre.
+
+Il assouplit également les conditions d'utilisation des drones. Leur déploiement au-dessus d'une manifestation permettrait d'observer les déplacements, les rassemblements et les mouvements de foule avec moins de contraintes administratives.
+
+### Créer ou alourdir des sanctions
+
+Le simple fait de participer à une manifestation interdite deviendrait une infraction pénale spécifique. L'organisation d'un tel rassemblement ou l'appel à y participer pourrait également entraîner une peine complémentaire de suspension des comptes sur les réseaux sociaux.
+
+La peine prévue pour la participation à un groupement formé en vue de commettre des violences ou des dégradations passerait d'un à trois ans d'emprisonnement. Cette qualification peut concerner une personne présente dans un groupe soupçonné de préparer des violences, même sans violence ou dégradation commise personnellement.
+
+Le texte ouvre aussi la possibilité de priver temporairement une personne de certains droits civiques, notamment du droit de vote ou de l'éligibilité, pour certaines infractions commises pendant une manifestation.
+
+### Faire porter les conséquences au-delà de la condamnation
+
+Les conséquences prévues ne sont pas uniquement pénales. Dans certaines situations liées à des troubles ou à des violences, un bail social pourrait être résilié, avec une intervention du préfet. Des prestations sociales pourraient également être saisies pour recouvrer les sommes dues au titre des dégradations. Cette possibilité concerne notamment les allocations familiales, les APL, le RSA, la prime d'activité ou l'allocation de rentrée scolaire.
+
+L'ensemble de ces dispositions élargit donc les conséquences possibles d'une mobilisation : elles peuvent toucher la liberté de circuler et de manifester, les comptes en ligne, les droits civiques, le logement et les ressources du foyer.
 
 ## Administration, juge et temporalité de la restriction
 
