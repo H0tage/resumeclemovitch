@@ -10,6 +10,8 @@ Ces trois questions concernent l'organisation de l'espace public. Les plateforme
 
 ## Plateformes numériques : visibilité, interaction et contrôle
 
+*00:10 – 00:52*
+
 Les plateformes numériques ne distribuent pas mécaniquement l'information. Elles hiérarchisent les contenus selon des mécanismes d'engagement : partage, commentaire, réaction et durée d'exposition. Dans ce cadre, les interactions hostiles peuvent accroître la visibilité des comptes qu'elles visent. La dénonciation publique d'un contenu, lorsqu'elle implique sa circulation, peut ainsi contribuer à son audience.
 
 Le blocage massif de comptes constitue une réponse possible à ce mécanisme. Il réduit les interactions, limite la recommandation algorithmique et évite que des contenus provocateurs ne soient relayés par leurs opposants. Cette pratique ne résout toutefois pas la question de la présence politique sur les plateformes : leur abandon complet laisse une part du débat public aux acteurs les plus organisés dans la production de contenus.
@@ -17,6 +19,8 @@ Le blocage massif de comptes constitue une réponse possible à ce mécanisme. I
 Le contrôle des plateformes par les autorités publiques pose une autre question. Suspendre des réseaux sociaux lors de manifestations affecte la coordination des rassemblements, la diffusion d'informations locales et la documentation des interventions policières. Une infrastructure de communication devient alors un outil de maintien de l'ordre. Une coupure généralisée touche directement la liberté d'expression et de réunion.
 
 ## Le projet « Casseur-payeur » et la responsabilité individuelle
+
+*00:52 – 01:55*
 
 Le projet relatif à la réparation des dégradations dans l'espace public est présenté comme un dispositif de responsabilisation des auteurs de violences. Son application soulève cependant une question de responsabilité individuelle : une personne participant à une manifestation peut-elle être tenue de réparer des dommages commis par d'autres personnes ?
 
@@ -26,6 +30,8 @@ Les amendements discutés au Sénat ajoutent d'autres instruments : interdiction
 
 ## Administration, juge et temporalité de la restriction
 
+*00:52 – 01:55*
+
 L'interdiction administrative de manifester illustre ce déplacement. Elle peut être prononcée par le préfet en raison de violences antérieures imputées à une personne et d'un risque de récidive. Le recours juridictionnel reste possible, mais intervient après la décision administrative.
 
 Cette séquence inverse l'ordre habituel de la protection judiciaire. La restriction s'applique immédiatement, puis son contrôle intervient. Le juge ne disparaît pas du dispositif, mais il examine une restriction déjà appliquée au lieu de la prévenir.
@@ -34,6 +40,8 @@ Le même schéma apparaît dans la régulation des contenus en ligne. Une autori
 
 ## Discours racistes, catégorisation politique et violence
 
+*02:47 – 04:00*
+
 L'attentat de Trappes a replacé au centre du débat la relation entre les discours politiques et les violences racistes. L'attaque du 23 octobre a causé la mort d'un homme noir de 26 ans et blessé cinq personnes, dont une enfant de 12 ans. Elle a été décrite comme un attentat terroriste à motivation raciste.
 
 Les discours associant régulièrement immigration, insécurité, dégradations urbaines et populations issues de l'immigration produisent une catégorisation collective. Ils ne désignent plus seulement des comportements ou des infractions ; ils construisent certains groupes comme un problème social et politique. Les références au « grand remplacement », à des villes qualifiées d'« islamistes » ou à un « type de population » participent à cette représentation.
@@ -41,6 +49,8 @@ Les discours associant régulièrement immigration, insécurité, dégradations 
 Ces discours ont des effets politiques. Ils rendent plus acceptable l'idée qu'un groupe entier puisse être traité comme une menace. Ils donnent aussi un cadre à des individus qui cherchent à présenter la violence comme une action politique. La responsabilité en jeu concerne donc la circulation et la normalisation de certaines représentations.
 
 ## Réponses institutionnelles et traitement médiatique
+
+*02:47 – 04:33*
 
 La réponse de Sébastien Lecornu à l'Assemblée nationale a reconnu le caractère raciste et terroriste de l'attaque, tout en élargissant le propos à l'ensemble des violences politiques et en établissant un parallèle avec la mort de Quentin Deranque. Ce déplacement modifie le cadre de l'hommage : l'événement n'est plus seulement traité comme une violence raciste ciblée, mais comme un élément d'une conflictualité politique générale.
 
