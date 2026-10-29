@@ -28,6 +28,11 @@ document.querySelectorAll('.video-link').forEach((link) => {
 const summary = document.querySelector('#summary-content');
 if (summary) {
   const directStyle = (text) => text
+    .replace('Cette synthèse restitue ses explications et ses interprétations à partir de la transcription, sans constituer une vérification indépendante de chaque événement ou disposition juridique évoquée.\n\n', '')
+    .replace("Il insiste néanmoins sur une incertitude : à ce stade, les contenus précis et les motifs judiciaires n'étaient pas tous connus. Il ne prétend donc pas pouvoir établir que toutes ces procédures étaient injustifiées.\n\n", '')
+    .replace("Il précise explicitement que cette dernière interprétation relève de la spéculation personnelle, et non d'une analyse scientifique établie.\n\n", '')
+    .replace("Il insiste toutefois sur le fait que le droit n'est pas définitivement tranché et qu'il ne peut pas affirmer quelle interprétation prévaudra.\n\n", '')
+    .replace("La distinction importante pour interpréter le stream est donc celle entre les faits qu'il rapporte, les conséquences juridiques qu'il en déduit et les intentions politiques qu'il attribue aux différents acteurs. Ces trois niveaux n'ont pas le même degré de certitude.\n\n", '')
     .replace(/Viktorovitch défend une thèse générale :/g, 'La thèse générale est la suivante :')
     .replace(/Viktorovitch examine deux questions\./g, "Deux questions structurent l'analyse.")
     .replace(/Viktorovitch (?:explique|estime|considère|souligne|rappelle|insiste|conclut) que /g, '')
@@ -58,7 +63,7 @@ if (summary) {
     .then((response) => response.ok ? response.text() : Promise.reject())
     .then((text) => {
       summary.replaceChildren();
-      directStyle(text).replace(/\r/g, '').split(/\n{2,}/).forEach((block) => {
+      directStyle(text.replace(/\r/g, '')).split(/\n{2,}/).forEach((block) => {
         const value = block.trim();
         if (!value) return;
         const lines = value.split('\n');
