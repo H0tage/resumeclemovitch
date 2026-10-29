@@ -24,3 +24,21 @@ document.querySelectorAll('.video-link').forEach((link) => {
     link.setAttribute('aria-current', 'page');
   });
 });
+
+const summary = document.querySelector('#summary-content');
+if (summary) {
+  fetch('content/synthese_stream_28_octobre_2026.txt')
+    .then((response) => response.ok ? response.text() : Promise.reject())
+    .then((text) => {
+      summary.replaceChildren();
+      text.replace(/\r/g, '').split(/\n{2,}/).forEach((block) => {
+        const value = block.trim();
+        if (!value) return;
+        const element = /^(\d+\. |SYNTHÈSE GÉNÉRALE|CONCLUSION|Un détour important)/.test(value) ? document.createElement('h2') : document.createElement('p');
+        element.textContent = value;
+        if (element.tagName === 'P') element.classList.add('verbatim-paragraph');
+        summary.append(element);
+      });
+    })
+    .catch(() => { summary.textContent = 'La synthèse n’a pas pu être chargée.'; });
+}

@@ -39,6 +39,10 @@ h2 { margin:0 0 17px; font-size:30px; line-height:1.1; }
 p, li { font-size:15px; line-height:1.8; }
 section p { margin:0 0 18px; }
 .timestamp { margin:-6px 0 18px; color:var(--accent); font:500 10px/1.2 "DM Mono", monospace; letter-spacing:.06em; }
+.source-document { padding-top:44px; }
+.source-document h2 { margin:52px 0 17px; }
+.source-document h2:first-child { margin-top:0; }
+.verbatim-paragraph { white-space:pre-line; }
 .takeaways { margin:0; padding:0; list-style:none; counter-reset:ideas; }
 .takeaways li { position:relative; padding:0 0 20px 42px; counter-increment:ideas; }
 .takeaways li::before { position:absolute; left:0; top:4px; content:"0" counter(ideas); color:var(--accent); font:500 11px/1 "DM Mono", monospace; }
