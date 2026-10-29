@@ -2,6 +2,11 @@ const root = document.documentElement;
 const button = document.querySelector('.theme-toggle');
 const summary = document.querySelector('#summary-content');
 const toc = document.querySelector('#toc-links');
+const articleHeader = document.querySelector('.article-header');
+const articles = {
+  'trappes-28': { file: 'content/article-trappes-28-octobre-2026.md', title: "Trappes : Lecornu redouble d'indignité", date: '28 octobre 2026', duration: 'environ 4 h 46', video: 'https://www.youtube.com/watch?v=tt5h663_qDE' },
+  'trappes-26': { file: 'content/article-pente-horreur-trappes-26-octobre-2026.md', title: "La pente qui nous a menés à l'horreur de Trappes", date: '26 octobre 2026', duration: 'environ 4 h 02', video: 'https://www.youtube.com/watch?v=6pX8JKLYfiA' },
+};
 
 function setTheme(theme) {
   root.dataset.theme = theme;
@@ -66,7 +71,38 @@ function renderArticle(markdown) {
   summary.querySelectorAll('h2').forEach((heading) => observer.observe(heading));
 }
 
-fetch('content/article-trappes-28-octobre-2026.md')
-  .then((response) => response.ok ? response.text() : Promise.reject())
-  .then(renderArticle)
-  .catch(() => { summary.textContent = 'L’article n’a pas pu être chargé.'; });
+function loadArticle(id) {
+  const article = articles[id];
+  if (!article) return;
+  articleHeader.querySelector('h1').textContent = article.title;
+  articleHeader.querySelector('.lede').textContent = `${article.date} · Durée de la vidéo : ${article.duration}`;
+  articleHeader.querySelector('time').textContent = article.date;
+  articleHeader.querySelector('.meta a').href = article.video;
+  summary.textContent = 'Chargement de l’article…';
+  fetch(article.file)
+    .then((response) => response.ok ? response.text() : Promise.reject())
+    .then(renderArticle)
+    .catch(() => { summary.textContent = 'L’article n’a pas pu être chargé.'; });
+}
+
+document.querySelectorAll('.video-link').forEach((link) => {
+  link.addEventListener('click', (event) => {
+    event.preventDefault();
+    document.querySelector('.video-link.active')?.classList.remove('active');
+    document.querySelector('.video-link[aria-current]')?.removeAttribute('aria-current');
+    link.classList.add('active');
+    link.setAttribute('aria-current', 'page');
+    loadArticle(link.dataset.article);
+    history.replaceState(null, '', link.getAttribute('href'));
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+});
+
+const initialArticle = location.hash === '#stream-26-octobre' ? 'trappes-26' : 'trappes-28';
+document.querySelectorAll('.video-link').forEach((link) => {
+  const selected = link.dataset.article === initialArticle;
+  link.classList.toggle('active', selected);
+  if (selected) link.setAttribute('aria-current', 'page');
+  else link.removeAttribute('aria-current');
+});
+loadArticle(initialArticle);
